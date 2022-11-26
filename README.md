@@ -1,4 +1,3 @@
-# My-Chelsea-Tactics
 <h1>My Fabulous Chelsea Team Tactics</h1>
 
 <p>This tactics is for a <strong>Chelsea Team with balance</strong> across defence, midfield and attack to make seamless trasition and flow to winning.</p>
