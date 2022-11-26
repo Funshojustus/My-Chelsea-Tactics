@@ -13,7 +13,7 @@
 
 <h2>Team Tactics</h2>
 
-<p>If I were advising the Coach on the <em>Tactics</em>, it might look something like this:</p>
+<p>If I was advising the Coach on the <em>Tactics</em>, it might look something like this:</p>
 
 <pre><code>if James is starting:
     add Sterling as Right Winger
